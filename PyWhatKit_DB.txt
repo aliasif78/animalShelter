@@ -1,0 +1,45 @@
+Date: 18/8/2023
+Time: 1:52
+Phone Number: +923331008936
+Message: This is a test message sent to myself using Python.
+--------------------
+Date: 18/8/2023
+Time: 1:53
+Phone Number: +923331008936
+Message: This is a test message sent to myself using Python.
+--------------------
+Date: 18/8/2023
+Time: 1:53
+Phone Number: +923331008936
+Message: This is a test message sent to myself using Python.
+--------------------
+Date: 19/8/2023
+Time: 16:49
+Phone Number: +923331008936
+Message: This is a test message sent to myself using Python.
+--------------------
+Date: 19/8/2023
+Time: 16:55
+Phone Number: +923331008936
+Message: 8495
+--------------------
+Date: 19/8/2023
+Time: 17:12
+Phone Number: +923331008936
+Message: 5501
+--------------------
+Date: 19/8/2023
+Time: 17:12
+Phone Number: +923331008936
+Message: 9239
+--------------------
+Date: 19/8/2023
+Time: 17:13
+Phone Number: +923331008936
+Message: 5285
+--------------------
+Date: 19/8/2023
+Time: 21:4
+Phone Number: +923331008936
+Message: 4860
+--------------------

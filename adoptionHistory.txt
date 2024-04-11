@@ -1,0 +1,131 @@
+Username : kokoroConnect9
+Pet Type : dog
+Pet ID : 1
+Customer's Name : Ali
+Address : g-13
+Phone Number : 03331008936
+Email Address : aliasif.nova@gmail.com
+
+Type of Residence : house
+Rent or Own : own
+Number of Adults : 7
+Number of Children : 7
+
+Owned Pets Before : yes
+Currently Own Pets : yes
+Experience with dogs : yse
+
+Daily routine and Lifestyle : yes
+Reason for Adoption : yes
+Where the Pet will live : yes
+
+Plans to take care of the pet : yes
+Prepared for the Costs of Pet Ownership : yes
+Plans to Train and Socialize the Pet : yes
+Plans for Emergencies : yes
+
+Agreed to Neuter, provide Medical Care, and responsible Ownership : ys
+Open to a Home Visit : yes
+
+Adoption Date : 2023-09-06
+
+^
+
+Username : aliAsif7
+Pet Type : dog
+Pet ID : 1
+Customer's Name : Ali
+Address : g-13
+Phone Number : 03331008936
+Email Address : aliasif.nova@gmail.com
+
+Type of Residence : house
+Rent or Own : own
+Number of Adults : 7
+Number of Children : 7
+
+Owned Pets Before : yes
+Currently Own Pets : yes
+Experience with dogs : yse
+
+Daily routine and Lifestyle : yes
+Reason for Adoption : yes
+Where the Pet will live : yes
+
+Plans to take care of the pet : yes
+Prepared for the Costs of Pet Ownership : yes
+Plans to Train and Socialize the Pet : yes
+Plans for Emergencies : yes
+
+Agreed to Neuter, provide Medical Care, and responsible Ownership : ys
+Open to a Home Visit : yes
+
+Adoption Date : 2023-09-07
+
+^
+
+Username : kokoroConnect9
+Pet Type : dog
+Pet ID : 2
+Customer's Name : syn
+Address : raven
+Phone Number : w
+Email Address : w
+
+Type of Residence : 2
+Rent or Own : 2
+Number of Adults : 2
+Number of Children : 2
+
+Owned Pets Before : 2
+Currently Own Pets : 2
+Experience with dogs : 2
+
+Daily routine and Lifestyle : 2
+Reason for Adoption : 2
+Where the Pet will live : 2
+
+Plans to take care of the pet : 2
+Prepared for the Costs of Pet Ownership : 2
+Plans to Train and Socialize the Pet : 2
+Plans for Emergencies : 2
+
+Agreed to Neuter, provide Medical Care, and responsible Ownership : 22
+Open to a Home Visit : 2
+
+Adoption Date : 2023-09-07
+
+^
+
+Username : abcdefg
+Pet Type : goat
+Pet ID : 2
+Customer's Name : syn
+Address : raven
+Phone Number : w
+Email Address : w
+
+Type of Residence : 2
+Rent or Own : 2
+Number of Adults : 2
+Number of Children : 2
+
+Owned Pets Before : 2
+Currently Own Pets : 2
+Experience with dogs : 2
+
+Daily routine and Lifestyle : 2
+Reason for Adoption : 2
+Where the Pet will live : 2
+
+Plans to take care of the pet : 2
+Prepared for the Costs of Pet Ownership : 2
+Plans to Train and Socialize the Pet : 2
+Plans for Emergencies : 2
+
+Agreed to Neuter, provide Medical Care, and responsible Ownership : 22
+Open to a Home Visit : 2
+
+Adoption Date : 2023-09-07
+
+^

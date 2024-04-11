@@ -1,0 +1,5 @@
+1 candy germanShepard Age6 
+2 jasper pitbull Age7 
+3 tony russian Age8 
+4 lynx syberian Age10  
+5 jade husky Age5 
